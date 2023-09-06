@@ -1,0 +1,20 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>mostrandoresultado</title>
+</head>
+<body>
+<% String mensagen = "bem-vindo ao Brasil!";
+out.println(mensagen+ "<br>");
+out.println("<em>Meu texto<br>");
+for(int i=1000;i<=2000;i++){
+if (i % 11 == 5){
+	out.println(i);
+}
+}
+%>
+</body>
+</html>

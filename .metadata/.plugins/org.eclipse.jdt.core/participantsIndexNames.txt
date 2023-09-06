@@ -1,0 +1,7 @@
+INDEX VERSION 1.134
+C:\Users\Administrador\Documents\aula03\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\284995064.index
+\exemploAula05\src\main\java
+C:\Users\Administrador\Documents\aula03\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2702403090.index
+\exemploaula4\src\main\java
+C:\Users\Administrador\Documents\aula03\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3669390047.index
+\exercicio05\src\main\java

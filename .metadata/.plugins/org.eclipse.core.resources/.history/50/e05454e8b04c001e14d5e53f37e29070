@@ -1,0 +1,19 @@
+<%@ page language="java" contentType="text/html; charset=UFT-8"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>FORMULARIOS CADASTRO</title>
+</head>
+<body>
+<form action="lista.jsp">
+<h2>FAÇA SEU melhor cadastro </h2>
+<label> NOME</label>
+<input type= "text" name= "name" id="nome">
+<label>IDADE</label>
+<input type= "text" name= "IDADE" id="IDADE">
+<input type= "submit"> <input type="reset"> 
+</form>
+</body>
+</html>

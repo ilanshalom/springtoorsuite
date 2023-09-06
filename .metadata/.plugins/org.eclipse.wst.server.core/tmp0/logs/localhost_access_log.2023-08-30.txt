@@ -1,0 +1,16 @@
+127.0.0.1 - - [30/Aug/2023:09:15:38 -0300] "GET / HTTP/1.1" 404 763
+127.0.0.1 - - [30/Aug/2023:09:15:41 -0300] "GET /exemploaula4/benvindo.jsp HTTP/1.1" 200 317
+127.0.0.1 - - [30/Aug/2023:09:15:41 -0300] "GET /favicon.ico HTTP/1.1" 404 774
+127.0.0.1 - - [30/Aug/2023:09:23:14 -0300] "GET /exemploaula4/benvindo.jsp HTTP/1.1" 200 317
+127.0.0.1 - - [30/Aug/2023:09:23:14 -0300] "GET /favicon.ico HTTP/1.1" 404 774
+127.0.0.1 - - [30/Aug/2023:10:19:05 -0300] "GET / HTTP/1.1" 404 763
+127.0.0.1 - - [30/Aug/2023:10:19:13 -0300] "GET /exercicio05/exercicio04.jsp HTTP/1.1" 200 5079
+127.0.0.1 - - [30/Aug/2023:10:19:13 -0300] "GET /favicon.ico HTTP/1.1" 404 774
+127.0.0.1 - - [30/Aug/2023:10:26:02 -0300] "GET /exercicio05/exercicio04.jsp HTTP/1.1" 200 5625
+127.0.0.1 - - [30/Aug/2023:10:26:09 -0300] "GET /exercicio05/exercicio04.jsp HTTP/1.1" 200 5625
+127.0.0.1 - - [30/Aug/2023:10:26:10 -0300] "GET /exercicio05/exercicio04.jsp HTTP/1.1" 200 5625
+127.0.0.1 - - [30/Aug/2023:10:26:11 -0300] "GET /exercicio05/exercicio04.jsp HTTP/1.1" 200 5625
+127.0.0.1 - - [30/Aug/2023:10:27:02 -0300] "GET /exercicio05/exercicio04.jsp HTTP/1.1" 200 720
+127.0.0.1 - - [30/Aug/2023:10:47:06 -0300] "GET /exercicio05/exercicio04.jsp HTTP/1.1" 500 2188
+127.0.0.1 - - [30/Aug/2023:10:47:54 -0300] "GET /exercicio05/exercicio04.jsp HTTP/1.1" 200 1129
+127.0.0.1 - - [30/Aug/2023:10:49:30 -0300] "GET /exercicio05/exercicio04.jsp HTTP/1.1" 200 1539
