@@ -1,0 +1,9 @@
+body{
+	font-family: cursive;
+	background-color: blue;
+}
+th,td{
+	font-size: 15px;
+	padding: 10px;
+	border: 1px solid black;
+}
